@@ -32,4 +32,12 @@
 
 .psize {
 	font-size: 30px;
+	margin-block-end: 0.5px;
+}
+
+.contact {
+	text-align: center;
+	color: black;
+	background-color: white;
+	margin-block-start: 0.2px;
 }
