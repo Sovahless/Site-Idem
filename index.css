@@ -1,0 +1,35 @@
+
+.dd {
+	padding-left: 5px;
+}
+ .mb img {
+ 	height: auto;
+ 	width: 100%;
+
+ }
+
+ .txtcentre {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 60px;
+  text-shadow: black 1px 0 1px;
+  color: white;
+}
+
+.pcentre {
+	font-size: 30px;
+}
+
+.apropos {
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-size: 60px;
+}
+
+.psize {
+	font-size: 30px;
+}
