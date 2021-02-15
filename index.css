@@ -36,8 +36,8 @@
 
 .foot {
 	text-align: center;
-	color: black;
-	background-color: white;
+	color: white;
+	background-color: #212529;
 }
 
 [data-component="slideshow"] .slide {
