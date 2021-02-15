@@ -41,3 +41,23 @@
 	background-color: white;
 	margin-block-start: 0.2px;
 }
+
+[data-component="slideshow"] .slide {
+    display: none;
+  }
+
+[data-component="slideshow"] .slide.active {
+    display: block;
+  }
+
+.slide img {
+  	width: 100%;
+  	height: auto;
+  }
+
+.alone {
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	background-color: black;
+}
