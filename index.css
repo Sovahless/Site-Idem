@@ -1,4 +1,3 @@
-
 .dd {
 	padding-left: 5px;
 }
@@ -32,14 +31,13 @@
 
 .psize {
 	font-size: 30px;
-	margin-block-end: 0.5px;
+	margin-block-end: 0.1px;
 }
 
-.contact {
+.foot {
 	text-align: center;
 	color: black;
 	background-color: white;
-	margin-block-start: 0.2px;
 }
 
 [data-component="slideshow"] .slide {
@@ -60,4 +58,5 @@
 	font-size: 20px;
 	color: white;
 	background-color: black;
+	margin-block-end: 0px;
 }
